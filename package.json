@@ -1,0 +1,25 @@
+{
+  "name": "testhelloworld",
+  "version": "1.0.0",
+  "description": "print hello world in terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bron10/testHelloWorld.git"
+  },
+  "keywords": [
+    "print",
+    "hello",
+    "world",
+    "js"
+  ],
+  "author": "bron10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bron10/testHelloWorld/issues"
+  },
+  "homepage": "https://github.com/bron10/testHelloWorld#readme"
+}
