@@ -4,6 +4,7 @@
   "description": "print hello world in terminal",
   "main": "index.js",
   "scripts": {
+    "start":"node index.js",
     "test": "npm test"
   },
   "repository": {
